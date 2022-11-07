@@ -4,7 +4,7 @@ pragma solidity >=0.7.0 <0.9.0;
 
 /**
  * @title Storageb test
- * @dev Store & retrieve value in a variable
+ * @dev Store & retrieve value in a va333riable
  */
 contract Storage {
 
