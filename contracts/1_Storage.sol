@@ -4,7 +4,7 @@ pragma solidity >=0.7.0 <0.9.0;
 
 /**
  * @title Storageb test
- * @dev Store & retrieve value in a va333riableijoiwejioewjfddfdf
+ * @dev Store & retrieve value in a va333riableijoiwejioewjfddfdflmklmlmlml
  */
 contract Storage {
 
