@@ -1,0 +1,3 @@
+[submodule "subdemo3"]
+	path = subdemo3
+	url = https://github.com/bunsenstraat/empty3
