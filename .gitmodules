@@ -1,3 +1,6 @@
 [submodule "subdemo3"]
 	path = subdemo3
 	url = https://github.com/bunsenstraat/empty3
+[submodule "testactionsub"]
+	path = testactionsub
+	url = https://github.com/bunsenstraat/testactions
