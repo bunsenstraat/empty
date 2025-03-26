@@ -1,0 +1,9 @@
+name: Running Solidity Unit Tests
+on: [push]
+
+jobs:
+  run_sol_contracts_job:
+    runs-on: ubuntu-latest
+    name: A job to run solidity unit tests on github actions CI
+    steps:
+      - name: Checkout
