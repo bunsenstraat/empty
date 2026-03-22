@@ -10,6 +10,18 @@ contract Storage {
 
     uint256 number;
 
+    // define new variable for state management
+
+     // 
+
+
+// 
+
+
+
+        Unable to get a res ponse from AI server
+
+    
     /**
      * @dev Store value in variable
      * @param num value to store
